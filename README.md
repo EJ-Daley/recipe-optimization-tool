@@ -1,4 +1,4 @@
-# recipe optimization tool
+# Recipe Optimization Tool
 
 ## 1. Project Overview
 
